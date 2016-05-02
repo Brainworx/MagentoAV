@@ -1,0 +1,9 @@
+encryption key = a91d1d43d8adee32bd5c0ef684a03aad
+user = stijn
+password = Av normal !
+http://localhost/magentoApoVita
+http://127.0.0.1/magentoApoVita/index.php/admin
+
+verion=1.9.2.4 -  
+Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, 
+SUPEE-7405, SUPEE-7405 v1.1
